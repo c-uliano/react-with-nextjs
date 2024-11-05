@@ -1,5 +1,7 @@
 # Setting up a React app using Next.js
 
+- parent file is `page.tsx`
+
 ## Getting Started
 
 1. `npx create-next-app@latest`
